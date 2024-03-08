@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/vitor-ext">
+  <a href="https://github.com/Bruno G. Borba">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=vitor-ext&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
