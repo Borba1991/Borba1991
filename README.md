@@ -4,7 +4,7 @@
  
 
 <div align="center">
-  <a href="https://github.com/vitor-ext">
+  <a href="https://github.com/">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor-ext&theme=slateorange" />
   </a>
   
