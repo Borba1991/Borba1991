@@ -1,5 +1,5 @@
 <p align="center">
-   ❣🚀❣  Bruno Guimarães Borba ❣🚀❣
+     Bruno Guimarães Borba 
 </p>
  
 
