@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://github.com/">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor-ext&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoGuimarãesBorba&theme=slateorange" />
   </a>
   
   </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-ext&langs_count=8&theme=great-gatsby" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGuimarãesBorba&langs_count=8&theme=great-gatsby" alt="Language stats.">
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
   
 <div align="center">
   <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoGuimarãesBorba&theme=slateorange" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoGuimarãesBorba&theme=slateorange" />
   </a>
 </div>
